@@ -18,3 +18,8 @@ This project explores the relationship between users' book rating behaviors and 
 - **Pandas** - Data manipulation and analysis
 - **NumPy** - Numerical computations
 - **Matplotlib/Seaborn** - Data visualization and plotting
+  
+## 📊 Dataset & Resources
+- **Book-Crossing Dataset** - [Download from Kaggle](https://www.kaggle.com/datasets/somnambwl/bookcrossing-dataset?resource=download)
+  - Contains 278,858 users providing 1,149,780 ratings on 271,379 books
+  - Includes user demographics (age) and book metadata
